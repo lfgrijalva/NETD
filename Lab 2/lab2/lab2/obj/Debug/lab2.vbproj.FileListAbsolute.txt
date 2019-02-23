@@ -1,0 +1,12 @@
+C:\Users\grija\OneDrive - Durham College\NETD\Lab 2\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\grija\OneDrive - Durham College\NETD\Lab 2\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\grija\OneDrive - Durham College\NETD\Lab 2\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\grija\OneDrive - Durham College\NETD\Lab 2\lab2\lab2\bin\Debug\lab2.xml
+C:\Users\grija\OneDrive - Durham College\NETD\Lab 2\lab2\lab2\obj\Debug\lab2.vbprojAssemblyReference.cache
+C:\Users\grija\OneDrive - Durham College\NETD\Lab 2\lab2\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\grija\OneDrive - Durham College\NETD\Lab 2\lab2\lab2\obj\Debug\lab2.Resources.resources
+C:\Users\grija\OneDrive - Durham College\NETD\Lab 2\lab2\lab2\obj\Debug\lab2.vbproj.GenerateResource.cache
+C:\Users\grija\OneDrive - Durham College\NETD\Lab 2\lab2\lab2\obj\Debug\lab2.vbproj.CoreCompileInputs.cache
+C:\Users\grija\OneDrive - Durham College\NETD\Lab 2\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\grija\OneDrive - Durham College\NETD\Lab 2\lab2\lab2\obj\Debug\lab2.xml
+C:\Users\grija\OneDrive - Durham College\NETD\Lab 2\lab2\lab2\obj\Debug\lab2.pdb
